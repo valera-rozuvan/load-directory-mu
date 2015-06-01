@@ -65,7 +65,7 @@ For example, suppose your "~/.emacs.d" directory has the following structure:
 
 To load all of the ".el" files, from "~/.emacs.d" you would do:
 
-    (`load-directory-mu' "~/.emacs.d")
+    (load-directory-mu "~/.emacs.d")
 
 ## Author
 
