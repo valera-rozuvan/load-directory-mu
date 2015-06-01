@@ -7,24 +7,24 @@ contained in a specified directory (along with all files in
 sub-directories).
 
 Original functionality was written by Emanuele Tomasi as a discussion
-for improving `recursive-subdirs' routine. Please see:
+for improving `recursive-subdirs` routine. Please see:
 
     http://www.emacswiki.org/emacs/DotEmacsModular
 
-The library has been called `load-directory-mu' so as not to confuse it
+The library has been called `load-directory-mu` so as not to confuse it
 with other libraries that offer more functionality. For example take a
 look at:
 
     http://www.cb1.com/~john/computing/emacs/lisp/basics/load-directory.el
 
-"mu" in `load-directory-mu' stands for the Greek letter /mu:/. In physics
+"mu" in `load-directory-mu` stands for the Greek letter /mu:/. In physics
 this letter represents the concept of "reduced mass". This library is
 a "reduced version" of it's bigger implementations = )
 
 ## INSTALLING
 
 To install this library, save this file to a directory in your
-`load-path' (you can view the current `load-path' using "C-h v
+`load-path` (you can view the current `load-path` using "C-h v
 load-path" within Emacs), then add the following line to your
 .emacs start up file:
 
