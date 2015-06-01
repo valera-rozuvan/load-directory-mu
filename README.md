@@ -70,9 +70,8 @@ To load all of the ".el" files, from "~/.emacs.d" you would do:
 ## Author
 
 Copyright (C) 2014 [Emanuele Tomasi](https://github.com/targzeta/), all rights reserved.
-Copyright (C) 2015 [Valera Rozuvan](http://valera.rozuvan.net/), all rights reserved.
 
-## License
+Copyright (C) 2015 [Valera Rozuvan](http://valera.rozuvan.net/), all rights reserved.
 
 ## License
 
