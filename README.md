@@ -22,8 +22,8 @@ this letter represents the concept of "reduced mass". This library is
 a "reduced version" of it's bigger implementations = )
 
 ## Installing
-To install this library, save this file to a directory in your
-`load-path` (you can view the current `load-path` using "C-h v
+To install this library, save the file `load-directory-mu.el` to a directory
+in your `load-path` (you can view the current `load-path` using "C-h v
 load-path" within Emacs), then add the following line to your
 .emacs start up file:
 
