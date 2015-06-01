@@ -22,7 +22,6 @@ this letter represents the concept of "reduced mass". This library is
 a "reduced version" of it's bigger implementations = )
 
 ## INSTALLING
-
 To install this library, save this file to a directory in your
 `load-path` (you can view the current `load-path` using "C-h v
 load-path" within Emacs), then add the following line to your
@@ -31,7 +30,6 @@ load-path" within Emacs), then add the following line to your
     (require 'load-directory-mu)
 
 ## USING
-
 For example, suppose your "~/.emacs.d" directory has the following structure:
 
     $> tree .emacs.d/
@@ -68,13 +66,11 @@ To load all of the ".el" files, from "~/.emacs.d" you would do:
     (load-directory-mu "~/.emacs.d")
 
 ## Author
-
 Copyright (C) 2014 [Emanuele Tomasi](https://github.com/targzeta/), all rights reserved.
 
 Copyright (C) 2015 [Valera Rozuvan](http://valera.rozuvan.net/), all rights reserved.
 
 ## License
-
 This project `load-directory-mu` is licensed under the
 `GNU GENERAL PUBLIC LICENSE Version 2, June 1991`.
 
