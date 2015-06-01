@@ -1,4 +1,4 @@
-# load-directory
+# load-directory-mu
 Load all ".el" files in a directory, and sub-dirs.
 
 ## Overview
