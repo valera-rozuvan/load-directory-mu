@@ -21,7 +21,7 @@ look at:
 this letter represents the concept of "reduced mass". This library is
 a "reduced version" of it's bigger implementations = )
 
-## INSTALLING
+## Installing
 To install this library, save this file to a directory in your
 `load-path` (you can view the current `load-path` using "C-h v
 load-path" within Emacs), then add the following line to your
@@ -29,7 +29,7 @@ load-path" within Emacs), then add the following line to your
 
     (require 'load-directory-mu)
 
-## USING
+## Using
 For example, suppose your "~/.emacs.d" directory has the following structure:
 
     $> tree .emacs.d/
