@@ -86,4 +86,5 @@ The latest source code can be retrieved from one of several mirrors:
 3. [git.rozuvan.net/load-directory-mu](https://git.rozuvan.net/load-directory-mu)
 
 Copyright (c) 2015-2022 [Valera Rozuvan](https://valera.rozuvan.net/)
+
 Copyright (c) 2014 [Emanuele Tomasi](https://github.com/targzeta)
