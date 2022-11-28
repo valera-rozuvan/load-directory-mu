@@ -65,13 +65,21 @@ To load all of the ".el" files, from "~/.emacs.d" you would do:
 
     (load-directory-mu "~/.emacs.d")
 
-## Author
-Copyright (C) 2014 [Emanuele Tomasi](https://github.com/targzeta/), all rights reserved.
+---
 
-Copyright (C) 2015 [Valera Rozuvan](http://valera.rozuvan.net/), all rights reserved.
+## license
 
-## License
-This project `load-directory-mu` is licensed under the
-`GNU GENERAL PUBLIC LICENSE Version 2, June 1991`.
+The project `'load-directory-mu'` is licensed under the MIT License.
 
-See [LICENSE](https://github.com/valera-rozuvan/load-directory-mu/blob/master/LICENSE) file for more information.
+See [LICENSE](./LICENSE) for more details.
+
+The latest source code can be retrieved from one of several mirrors:
+
+1. [github.com/valera-rozuvan/load-directory-mu](https://github.com/valera-rozuvan/load-directory-mu)
+
+2. [gitlab.com/valera-rozuvan/load-directory-mu](https://gitlab.com/valera-rozuvan/load-directory-mu)
+
+3. [git.rozuvan.net/load-directory-mu](https://git.rozuvan.net/load-directory-mu)
+
+Copyright (c) 2015-2022 [Valera Rozuvan](https://valera.rozuvan.net/)
+Copyright (c) 2014 [Emanuele Tomasi](https://github.com/targzeta)
