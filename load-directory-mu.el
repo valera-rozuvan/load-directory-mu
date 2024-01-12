@@ -40,7 +40,7 @@
 ;; Original functionality was written by Emanuele Tomasi as a discussion
 ;; for improving `recursive-subdirs' routine. Please see:
 ;;
-;;  http://www.emacswiki.org/emacs/DotEmacsModular
+;;  https://www.emacswiki.org/emacs/DotEmacsModular
 ;;
 ;; The library has been called `load-directory-mu' so as not to confuse it
 ;; with other libraries that offer more functionality. For example take a
